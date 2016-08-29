@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "butter-settings-popcorntime.io@git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+        "scope": null,
+        "escapedName": "butter-settings-popcorntime.io",
+        "name": "butter-settings-popcorntime.io",
+        "rawSpec": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+        "spec": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+          "sshUrl": "git+ssh://git@github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+          "httpsUrl": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+          "gitUrl": "git://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+          "shortcut": "github:popcorn-official/butter-settings-popcorn#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+          "directUrl": "https://raw.githubusercontent.com/popcorn-official/butter-settings-popcorn/6b8075e0065efbe7276e4a469ca00dbc43c2aaa9/package.json"
+        }
+      },
+      "/opt/projects/popcorn-desktop"
+    ]
+  ],
+  "_from": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+  "_id": "butter-settings-popcorntime.io@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/butter-settings-popcorntime.io",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "butter-settings-popcorntime.io@git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+    "scope": null,
+    "escapedName": "butter-settings-popcorntime.io",
+    "name": "butter-settings-popcorntime.io",
+    "rawSpec": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+    "spec": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+      "sshUrl": "git+ssh://git@github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+      "httpsUrl": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+      "gitUrl": "git://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+      "shortcut": "github:popcorn-official/butter-settings-popcorn#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+      "directUrl": "https://raw.githubusercontent.com/popcorn-official/butter-settings-popcorn/6b8075e0065efbe7276e4a469ca00dbc43c2aaa9/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+  "_shasum": "f6cf08bc4c9837b41e9e28e560d980f6f37bf66d",
+  "_shrinkwrap": null,
+  "_spec": "butter-settings-popcorntime.io@git+https://github.com/popcorn-official/butter-settings-popcorn.git#6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+  "_where": "/opt/projects/popcorn-desktop",
+  "author": {
+    "name": "Random Popcon Contributor"
+  },
+  "dependencies": {},
+  "description": "Settings for butter for the Popcorn Time Project",
+  "devDependencies": {},
+  "gitHead": "6b8075e0065efbe7276e4a469ca00dbc43c2aaa9",
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "popcorn-settings-popcorntime.io",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
